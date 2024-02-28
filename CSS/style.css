@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+nav{
+    /* display: flex; */
+    /* align-items: center; */
+    gap: 20px;
+    size: 10px;
+    background-color: black;
+    padding-inline: 20px;
+}
+
+nav>a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+nav>h2{
+    color: red;
+}
+
+.product{
+    /* height: 400px; */
+    margin-block: 10px; 
+}
